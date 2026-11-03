@@ -152,7 +152,7 @@ Os requisitos não funcionais focam na qualidade do nosso sistema, ou seja, o de
 
 Para nossa regra de negócios utilizamos Business Model Canvas que é uma ferramenta de gestão estratégica que permite esboçar e estruturar o modelo de funcionamento de um projeto através de 9 blocos fundamentais. No contexto deste projeto, estabelece as diretrizes operacionais para transformar a gestão manual da secretaria em um fluxo digital.
 
-![Business Model Canvas - Sistema Secretária](imagens/canvas.png)
+![Business Model Canvas - Sistema Secretária](canvas.png)
 
 Para melhor entendimento dos blocos da imagem está um resumo e como cada um desses 9 blocos se encaixa no nosso sistema da secretária:
 
